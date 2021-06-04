@@ -1,0 +1,13 @@
+C:\Users\valen\source\repos\EXM\EXM\obj\Debug\netcoreapp3.1\EXM.csprojAssemblyReference.cache
+C:\Users\valen\source\repos\EXM\EXM\obj\Debug\netcoreapp3.1\EXM.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\EXM\EXM\obj\Debug\netcoreapp3.1\EXM.AssemblyInfo.cs
+C:\Users\valen\source\repos\EXM\EXM\obj\Debug\netcoreapp3.1\EXM.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\EXM\EXM\bin\Debug\netcoreapp3.1\EXM.exe
+C:\Users\valen\source\repos\EXM\EXM\bin\Debug\netcoreapp3.1\EXM.deps.json
+C:\Users\valen\source\repos\EXM\EXM\bin\Debug\netcoreapp3.1\EXM.runtimeconfig.json
+C:\Users\valen\source\repos\EXM\EXM\bin\Debug\netcoreapp3.1\EXM.runtimeconfig.dev.json
+C:\Users\valen\source\repos\EXM\EXM\bin\Debug\netcoreapp3.1\EXM.dll
+C:\Users\valen\source\repos\EXM\EXM\bin\Debug\netcoreapp3.1\EXM.pdb
+C:\Users\valen\source\repos\EXM\EXM\obj\Debug\netcoreapp3.1\EXM.dll
+C:\Users\valen\source\repos\EXM\EXM\obj\Debug\netcoreapp3.1\EXM.pdb
+C:\Users\valen\source\repos\EXM\EXM\obj\Debug\netcoreapp3.1\EXM.genruntimeconfig.cache
